@@ -31,7 +31,7 @@ ID   ,SEX, SUBSET           ,MINUTES, NAME
 56   , F , train-clean-360  , 25.07 , Kirsten Ferreri
 57   , F , train-other-500  , 29.41 , Ophelia Darcy
 58   , M , train-other-500  , 30.06 , George Coutts
-60   , M , train-clean-100  , 20.18 , ,CBW,Simon
+60   , M , train-clean-100  , 20.18 , CBW_Simon
 61   , M , test-clean       , 8.08  , Paul-Gabriel Wiener
 62   , M , train-other-500  , 17.80 , Faris
 64   , F , train-clean-360  , 23.51 , Robin Cotter
